@@ -33,7 +33,7 @@ Headline result: the 90.5% claim reproduces (we get 90.4%), but 29.6% of the aut
 
 **Locally:**
 ```bash
-pip install pandas numpy scikit-learn matplotlib jupyter
+pip install -r requirements.txt
 jupyter notebook phishing_project.ipynb
 # dataset.csv must sit in the same folder
 ```
